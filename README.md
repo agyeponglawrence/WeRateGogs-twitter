@@ -1,4 +1,4 @@
-# WeRateDogs-twitter - 
+# WeRateDogs-twitter
 # Project 2 Wrangling Data Report
 The objective of this report is to present my wrangling efforts and thought process for this project. This report is divided into three main sections; Gathering, Assessing, and Cleaning.
 
